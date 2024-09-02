@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background-color: #007bff; /* Change to sky blue */
+    padding: 2px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+nav ul li a {
+    text-decoration: none;
+    color: #333; /* Change link color */
+}
+nav ul li a:hover {
+    color: #0056b3;
+}
+/* Add styles for the sidebar panel */
+.sidebar {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-top: 0px;
+    width: 200px;
+    position: fixed;
+    left: 0;
+    height: 100%;
+    overflow-y: auto;
+}
+.sidebar ul {
+    padding: 0;
+}
+.sidebar ul li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+.sidebar ul li a {
+    text-decoration:none;
+    color: #333;
+}
+.sidebar ul li a:hover {
+    color: #0056b3;
+}
+.content {
+    margin-left: 260px; /* Adjust this value based on your sidebar width */
+    padding: 20px;
+}
+#logout{
+
+position:absolute;
+top: 20px;
+right: 20px;
+border-radius:50%;
+background-color:#04AA6D;
+color:white;
+padding: 10px;
+text-decoration: none;
+}

@@ -1,0 +1,86 @@
+2024-08-11 13:03:49 - Script started at: 2024-08-11 13:03:49
+2024-08-11 13:03:49 - Tomorrow's Date: 2024-08-12, Day of the Week: Monday
+2024-08-11 13:03:49 - Lectures fetched: [{"course_name":"data structures","course_code":"cmt 310","venue":"th02","start_time":"08:00:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"monday"},{"course_name":"web development","course_code":"Cmt 108E","venue":"OH","start_time":"11:00:00","end_time":"02:00:00","faculty":"science","department":"computer science","day":"monday"}]
+2024-08-11 13:03:49 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-11 13:03:54 - Email sent to ingridyeromuyes@gmail.com with status: sent
+2024-08-11 13:03:58 - Email sent to jerry@gmail.com with status: sent
+2024-08-11 13:04:03 - Email sent to mecy@gmail.com with status: sent
+2024-08-11 13:04:07 - Email sent to mali@gmail.com with status: sent
+2024-08-11 13:04:12 - Email sent to user1@example.com with status: sent
+2024-08-11 13:04:16 - Email sent to user2@example.com with status: sent
+2024-08-11 13:04:21 - Email sent to menensusan@gmail.com with status: sent
+2024-08-11 13:04:25 - Email sent to candicemunyes@gmail.com with status: sent
+2024-08-11 13:04:25 - Reminders have been sent successfully.
+2024-08-11 13:04:25 - Script ended at: 2024-08-11 13:04:25
+2024-08-11 13:16:39 - Script started at: 2024-08-11 13:16:39
+2024-08-11 13:16:39 - Tomorrow's Date: 2024-08-12, Day of the Week: Monday
+2024-08-11 13:16:39 - Lectures fetched: [{"course_name":"data structures","course_code":"cmt 310","venue":"th02","start_time":"08:00:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"monday"},{"course_name":"web development","course_code":"Cmt 108E","venue":"OH","start_time":"11:00:00","end_time":"02:00:00","faculty":"science","department":"computer science","day":"monday"}]
+2024-08-11 13:16:39 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-11 13:16:50 - Reminders could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+2024-08-11 13:16:50 - Script ended at: 2024-08-11 13:16:50
+2024-08-11 13:17:00 - Script started at: 2024-08-11 13:17:00
+2024-08-11 13:17:00 - Tomorrow's Date: 2024-08-12, Day of the Week: Monday
+2024-08-11 13:17:00 - Lectures fetched: [{"course_name":"data structures","course_code":"cmt 310","venue":"th02","start_time":"08:00:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"monday"},{"course_name":"web development","course_code":"Cmt 108E","venue":"OH","start_time":"11:00:00","end_time":"02:00:00","faculty":"science","department":"computer science","day":"monday"}]
+2024-08-11 13:17:00 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-11 13:17:20 - Email sent to ingridyeromuyes@gmail.com with status: sent
+2024-08-11 13:17:25 - Email sent to jerry@gmail.com with status: sent
+2024-08-11 13:17:30 - Email sent to mecy@gmail.com with status: sent
+2024-08-11 13:17:34 - Email sent to mali@gmail.com with status: sent
+2024-08-11 13:17:39 - Email sent to user1@example.com with status: sent
+2024-08-11 13:17:43 - Email sent to user2@example.com with status: sent
+2024-08-11 13:17:48 - Email sent to menensusan@gmail.com with status: sent
+2024-08-11 13:17:52 - Email sent to candicemunyes@gmail.com with status: sent
+2024-08-11 13:17:52 - Reminders have been sent successfully.
+2024-08-11 13:17:52 - Script ended at: 2024-08-11 13:17:52
+2024-08-12 08:26:49 - Script started at: 2024-08-12 08:26:49
+2024-08-12 08:26:49 - Tomorrow's Date: 2024-08-13, Day of the Week: Tuesday
+2024-08-12 08:26:49 - Lectures fetched: [{"course_name":"computer graphics","course_code":"Cmt 200","venue":"OH","start_time":"22:17:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"}]
+2024-08-12 08:26:49 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-12 08:26:53 - Script started at: 2024-08-12 08:26:53
+2024-08-12 08:26:53 - Tomorrow's Date: 2024-08-13, Day of the Week: Tuesday
+2024-08-12 08:26:53 - Lectures fetched: [{"course_name":"computer graphics","course_code":"Cmt 200","venue":"OH","start_time":"22:17:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"}]
+2024-08-12 08:26:53 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-12 08:26:54 - Email sent to ingridyeromuyes@gmail.com with status: sent
+2024-08-12 08:26:58 - Email sent to ingridyeromuyes@gmail.com with status: sent
+2024-08-12 08:26:59 - Email sent to jerry@gmail.com with status: sent
+2024-08-12 08:27:02 - Email sent to jerry@gmail.com with status: sent
+2024-08-12 08:27:03 - Email sent to mecy@gmail.com with status: sent
+2024-08-12 08:27:06 - Email sent to mecy@gmail.com with status: sent
+2024-08-12 08:27:07 - Email sent to mali@gmail.com with status: sent
+2024-08-12 08:27:10 - Email sent to mali@gmail.com with status: sent
+2024-08-12 08:27:15 - Email sent to user1@example.com with status: sent
+2024-08-12 08:27:15 - Email sent to user1@example.com with status: sent
+2024-08-12 08:27:19 - Email sent to user2@example.com with status: sent
+2024-08-12 08:27:19 - Email sent to user2@example.com with status: sent
+2024-08-12 08:27:23 - Email sent to menensusan@gmail.com with status: sent
+2024-08-12 08:27:24 - Email sent to menensusan@gmail.com with status: sent
+2024-08-12 08:27:28 - Email sent to candicemunyes@gmail.com with status: sent
+2024-08-12 08:27:28 - Reminders have been sent successfully.
+2024-08-12 08:27:28 - Script ended at: 2024-08-12 08:27:28
+2024-08-12 08:27:28 - Email sent to candicemunyes@gmail.com with status: sent
+2024-08-12 08:27:28 - Reminders have been sent successfully.
+2024-08-12 08:27:28 - Script ended at: 2024-08-12 08:27:28
+2024-08-12 09:43:06 - Script started at: 2024-08-12 09:43:06
+2024-08-12 09:43:06 - Tomorrow's Date: 2024-08-13, Day of the Week: Tuesday
+2024-08-12 09:43:06 - Lectures fetched: [{"course_name":"computer graphics","course_code":"Cmt 200","venue":"OH","start_time":"22:17:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"},{"course_name":"DIT","course_code":"cmt002","venue":"th04","start_time":"08:00:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"}]
+2024-08-12 09:43:06 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-12 09:43:06 - Reminders could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+2024-08-12 09:43:06 - Script ended at: 2024-08-12 09:43:06
+2024-08-12 09:43:09 - Script started at: 2024-08-12 09:43:09
+2024-08-12 09:43:09 - Tomorrow's Date: 2024-08-13, Day of the Week: Tuesday
+2024-08-12 09:43:09 - Lectures fetched: [{"course_name":"computer graphics","course_code":"Cmt 200","venue":"OH","start_time":"22:17:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"},{"course_name":"DIT","course_code":"cmt002","venue":"th04","start_time":"08:00:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"}]
+2024-08-12 09:43:09 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-12 09:43:09 - Reminders could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+2024-08-12 09:43:09 - Script ended at: 2024-08-12 09:43:09
+2024-08-12 09:43:11 - Script started at: 2024-08-12 09:43:11
+2024-08-12 09:43:11 - Tomorrow's Date: 2024-08-13, Day of the Week: Tuesday
+2024-08-12 09:43:11 - Lectures fetched: [{"course_name":"computer graphics","course_code":"Cmt 200","venue":"OH","start_time":"22:17:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"},{"course_name":"DIT","course_code":"cmt002","venue":"th04","start_time":"08:00:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"}]
+2024-08-12 09:43:11 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-12 09:43:11 - Reminders could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+2024-08-12 09:43:11 - Script ended at: 2024-08-12 09:43:11
+2024-08-12 09:46:03 - Script started at: 2024-08-12 09:46:03
+2024-08-12 09:46:03 - Tomorrow's Date: 2024-08-13, Day of the Week: Tuesday
+2024-08-12 09:46:03 - Lectures fetched: [{"course_name":"computer graphics","course_code":"Cmt 200","venue":"OH","start_time":"22:17:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"},{"course_name":"DIT","course_code":"cmt002","venue":"th04","start_time":"08:00:00","end_time":"10:00:00","faculty":"science","department":"computer science","day":"tuesday"}]
+2024-08-12 09:46:03 - Users fetched: [{"id":24,"email":"ingridyeromuyes@gmail.com","username":"maya"},{"id":34,"email":"jerry@gmail.com","username":"jerry"},{"id":37,"email":"mecy@gmail.com","username":"Mercy"},{"id":38,"email":"mali@gmail.com","username":"Mali"},{"id":39,"email":"user1@example.com","username":"user1"},{"id":40,"email":"user2@example.com","username":"user2"},{"id":41,"email":"menensusan@gmail.com","username":"Menen"},{"id":42,"email":"candicemunyes@gmail.com","username":"Candice"}]
+2024-08-12 09:46:03 - Reminders could not be sent. Mailer Error: SMTP Error: Could not connect to SMTP host. Failed to connect to serverSMTP server error: Failed to connect to server Additional SMTP info: php_network_getaddresses: getaddrinfo for smtp.gmail.com failed: No such host is known. 
+2024-08-12 09:46:03 - Script ended at: 2024-08-12 09:46:03
